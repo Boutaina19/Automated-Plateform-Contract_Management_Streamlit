@@ -1,0 +1,14 @@
+streamlit
+pillow
+opencv-python
+numpy
+pymupdf
+pytesseract
+easyocr
+mistralai
+rapidfuzz
+spacy
+pandas
+folium
+streamlit-folium
+geopy
